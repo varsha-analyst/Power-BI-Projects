@@ -2,7 +2,7 @@
 
 **HR Analytics Project**
 
-*Project 1*
+Project 1
 
 Problem Statement: Reaons why enployees are leaving company.
 
@@ -14,3 +14,9 @@ Attrition Rate = AttritionCount/total empcount,
 average age of employee,
 average salary of employee,
 average years employee present in company.
+
+
+
+Project 2
+
+HR Documentation
