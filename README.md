@@ -1,5 +1,7 @@
 # Power-BI-Projects
 
+**HR Analytics Project**
+
 *Project 1*
 
 Problem Statement: Reaons why enployees are leaving company.
